@@ -8153,7 +8153,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   font-weight: 400;
-  color: #999999; }
+  color: #C7C7C7; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8588,11 +8588,11 @@ h1, h2, h3, h4, h5,
   .btn.btn-primary {
     background: #368EE3;
     border: 1px solid #368EE3 !important;
-    color: #FFF !important; }
+    color: #EEEEEE !important; }
     .btn.btn-primary:hover {
       border: 1px solid #368EE3 !important;
-      background: #368EE3 !important;
-      color: #fff !important; }
+      background: #64A8EA !important;
+      color: #FFF !important; }
     .btn.btn-primary.btn-outline-primary {
       border: 2px solid #368EE3 !important;
       background: transparent !important;
