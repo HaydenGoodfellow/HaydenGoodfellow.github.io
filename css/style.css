@@ -8709,6 +8709,13 @@ h1, h2, h3, h4, h5,
         color: #6EC5B8;
         width: 130px; }
 
+.ftco-about ul.about-info a {
+  color: inherit !important;
+}
+.ftco-about ul.about-info a:hover {
+  color: #368EE3 !important;
+}
+
 .ftco-about .counter-wrap .text p {
   font-size: 20px; }
   .ftco-about .counter-wrap .text p span {
