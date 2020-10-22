@@ -8688,10 +8688,13 @@ h1, h2, h3, h4, h5,
   z-index: 0;
   position: relative; }
   .ftco-about .img-about .img {
-    display: block;
-    width: 100%;
+    width: 70%;
+    height: auto;
     position: relative;
-    z-index: 1; }
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+   }
 
 .ftco-about ul.about-info {
   display: inline-block;
